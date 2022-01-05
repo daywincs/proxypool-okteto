@@ -56,6 +56,10 @@
   options:
     url: https://v2ray.banyunxiaoxi.ml/
 
+- type: subscribe
+  options:
+    url: https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+
 # 网页模糊抓取
 - type: webfuzz
   options:
