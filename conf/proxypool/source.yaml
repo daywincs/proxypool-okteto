@@ -85,6 +85,31 @@
   options:
     url: https://raw.githubusercontent.com/MambaOutZY/FreeVmessSUB/main/trojan.txt
 
+- type: clash
+  options:
+    url: https://gitlab.com/free9999/ipupdate/-/raw/master/clash/config.yaml
+
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/Alvin9999/pac2@latest/clash/config.yaml
+
+- type: clash
+  options:
+    url: https://gitlab.com/free9999/ipupdate/-/raw/master/clash/2/config.yaml
+
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/Alvin9999/pac2@latest/clash/2/config.yaml
+
+- type: clash
+  options:
+    url: https://gitlab.com/free9999/ipupdate/-/raw/master/clash/3/config.yaml
+
+- type: clash
+  options:
+    url: https://cdn.jsdelivr.net/gh/Alvin9999/pac2@latest/clash/3/config.yaml
+
+
 # 某个网站抓取
 - type: web-freessrxyz
   options:
