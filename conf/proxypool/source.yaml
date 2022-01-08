@@ -1,58 +1,53 @@
-# 模糊抓取订阅链接
-- type: webfuzzsub
-  options:
-    url: 
-
 # 订阅链接
-- type: subscribe
+#- type: subscribe
   options:
     url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/vmess.txt
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://raw.githubusercontent.com/skywolf627/VmessActions/main/subscribe/trojan.txt
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://github.com/Leon406/Sub/blob/master/sub/share/tr
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://raw.githubusercontent.com/learnhard-cn/free_proxy_ss/main/v2ray/v2raysub
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://raw.githubusercontent.com/freefq/free/master/v2
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://raw.githubusercontent.com/yc20013/vm/main/a
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://raw.githubusercontent.com/1768605134/Vmess/main/README.md
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://raw.githubusercontent.com/colatiger/v2ray-nodes/master/vmess.md
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://raw.githubusercontent.com/xiaotangmu8/vmess/main/vmess.md
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://raw.githubusercontent.com/umelabs/node.umelabs.dev/master/Subscribe/v2ray.md
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://jiang.netlify.app/
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://youlianboshi.netlify.app/
 
-- type: subscribe
+#- type: subscribe
   options:
     url: https://v2ray.banyunxiaoxi.ml/
 
@@ -109,14 +104,21 @@
   options:
     url: https://cdn.jsdelivr.net/gh/Alvin9999/pac2@latest/clash/3/config.yaml
 
-##- type: clash
-##  options:
-##    url: https://proxies.bihai.cf/clash/proxies
+- type: clash
+  options:
+    url: https://proxies.bihai.cf/clash/proxies
 
-#- type: clash
-#  options:
-#    url: https://hk.xhrzg2017.xyz/clash/proxies
+- type: clash
+  options:
+    url: https://hk.xhrzg2017.xyz/clash/proxies
 
+- type: clash
+  options:
+    url: http://wxshi.top:9090/clash/proxies
+
+- type: clash
+  options:
+    url: http://104.128.81.6:8080/clash/proxies
 
 # 某个网站抓取
 - type: web-freessrxyz
