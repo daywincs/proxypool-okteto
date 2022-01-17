@@ -121,6 +121,10 @@
   options:
     url: https://hk.xhrzg2017.xyz/clash/proxies
 
+- type: clash
+  options:
+    url: https://raw.githubusercontent.com/chfchf0306/clash/main/clash
+
 #- type: clash
 #  options:
 #    url: http://wxshi.top:9090/clash/proxies
